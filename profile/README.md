@@ -1,53 +1,15 @@
-# pickforge
+## Pickforge Studio
 
-> Building open-source AI tools that help developers ship faster.
+Local-first instruments for people who ship. Pick. Forge. Ship.
 
-pickforge is an open-source organization focused on AI-powered developer tools, autonomous workflows, coding agents, and productivity software.
+- **[PickForge](https://github.com/pickforge/pickforge)** — Point at an element. Ship the fix.
+- **[PickLab](https://github.com/pickforge/picklab)** — Playwright, for native apps.
+- **[PickScribe](https://github.com/pickforge/pickscribe)** — Speak. It types.
+- **[PickGauge](https://github.com/pickforge/pickgauge)** — A fuel gauge for AI subscriptions.
+- **[PickArena](https://github.com/pickforge/pickarena)** — Benchmarks on real Flutter work. *(coming soon)*
 
-Our mission is to make advanced AI capabilities accessible to every developer through practical, transparent, and community-driven open-source projects.
+22 MCP tools. 3 agent CLIs. 0 cloud services.
 
-## What We Build
+More at [pickforge.dev](https://pickforge.dev) · [@pickforgedotdev](https://x.com/pickforgedotdev)
 
-- AI-powered developer tools
-- Autonomous coding workflows
-- Agent infrastructure and orchestration
-- Developer productivity software
-- Open-source tooling for modern engineering teams
-- Experiments in human-AI collaboration
-
-## Philosophy
-
-We believe AI should amplify developers, not replace them.
-
-Our projects are designed around:
-
-- Open-source first
-- Developer experience obsessed
-- Practical over theoretical
-- Transparent and extensible architectures
-- Community-driven development
-
-## Contributing
-
-We welcome contributions of all kinds:
-
-- Bug reports
-- Feature requests
-- Documentation improvements
-- Code contributions
-- Community feedback
-
-If you'd like to help shape the future of AI-powered development tools, we'd love to collaborate.
-
-## Community
-
-- GitHub: https://github.com/pickforge
-- X: https://x.com/pickforge
-
-## Vision
-
-Our long-term goal is to build a complete ecosystem of open-source tools that help developers plan, build, review, test, and ship software with AI.
-
-We are just getting started.
-
-**Forge the future.**
+Forge the future.
