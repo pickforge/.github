@@ -1,4 +1,4 @@
-## Pickforge Studio
+<a href="https://pickforge.dev"><img src="./pickforge-studio-og.png" alt="Pickforge Studio — five local-first instruments for developers who ship" width="100%"></a>
 
 Local-first instruments for people who ship. Pick. Forge. Ship.
 
