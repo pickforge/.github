@@ -1,15 +1,23 @@
-<a href="https://pickforge.dev"><img src="./pickforge-studio-og.png" alt="Pickforge Studio — five local-first instruments for developers who ship" width="100%"></a>
+<a href="https://pickforge.dev">
+  <img src="./pickforge-studio-og.png" alt="Pickforge Studio. Wire your coding agent into Flutter." width="100%">
+</a>
 
-Local-first instruments for people who ship. Pick. Forge. Ship.
+Local-first. Open source. Built for people who ship.
 
-- **[PickForge](https://github.com/pickforge/pickforge)** — Point at an element. Ship the fix.
-- **[PickLab](https://github.com/pickforge/picklab)** — Playwright, for native apps.
-- **[PickScribe](https://github.com/pickforge/pickscribe)** — Speak. It types.
-- **[PickGauge](https://github.com/pickforge/pickgauge)** — A fuel gauge for AI subscriptions.
-- **[PickArena](https://github.com/pickforge/pickarena)** — Benchmarks on real Flutter work. *(coming soon)*
+### Wire your coding agent into Flutter.
 
-22 MCP tools. 3 agent CLIs. 0 cloud services.
+[Pickforge](https://github.com/pickforge/pickforge) connects Claude Code, Codex, and Pi to Flutter, with a Linux lab for running and testing real apps.
 
-More at [pickforge.dev](https://pickforge.dev) · [@pickforgedotdev](https://x.com/pickforgedotdev)
+Run isolated desktop sessions, automate Android emulators, and inspect what happened through screenshots, logs, and recorded evidence.
 
-Forge the future.
+CLI + MCP server. Flutter first. Formerly PickLab.
+
+[Get started](https://pickforge.dev/pickforge) · [Source](https://github.com/pickforge/pickforge)
+
+### Also from the workshop
+
+[complexity-gate](https://github.com/pickforge/complexity-gate) checks function complexity inside your coding agent’s workflow, before complicated code becomes your maintenance problem.
+
+---
+
+[pickforge.dev](https://pickforge.dev) · [@pickforgedotdev](https://x.com/pickforgedotdev)
