@@ -16,7 +16,7 @@ CLI + MCP server. Flutter first. Formerly PickLab.
 
 ### Also from the workshop
 
-[PickCheck](https://github.com/pickforge/complexity-gate) checks function complexity inside your coding agent’s workflow, before complicated code becomes your maintenance problem.
+[PickCheck](https://github.com/pickforge/pickcheck) checks function complexity inside your coding agent’s workflow, before complicated code becomes your maintenance problem.
 
 ---
 
