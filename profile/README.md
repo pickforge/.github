@@ -1,5 +1,5 @@
 <a href="https://pickforge.dev">
-  <img src="./pickforge-studio-og.png" alt="Pickforge Studio. Wire your coding agent into Flutter." width="100%">
+  <img src="./pickforge-studio-og.png" alt="Pickforge Studio. Local-first instruments for developers who ship." width="100%">
 </a>
 
 Local-first. Open source. Built for people who ship.
